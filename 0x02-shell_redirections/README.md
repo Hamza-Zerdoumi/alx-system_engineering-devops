@@ -1,0 +1,1 @@
+A directory contains the shell, I/O Redirections and filters 

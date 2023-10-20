@@ -1,0 +1,2 @@
+#!/bin/bash
+ls  -la . ..  /boot  #  .  for  current dir .. for parent dir  -l for long listing a for add the file start with a dot (hidden file)

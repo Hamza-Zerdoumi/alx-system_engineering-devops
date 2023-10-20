@@ -1,0 +1,19 @@
+total 76
+drwxrwxr-x 2 hamza hamza  4096 Sep  6 19:57 .
+drwxrwxr-x 6 hamza hamza  4096 Sep  6 19:57 ..
+-rwxrwxr-x 1 hamza hamza    32 Sep  6 19:47 0-hello_world
+-rwxrwxr-x 1 hamza hamza    25 Sep  6 19:47 0-hello_world~
+-rwxrwxr-x 1 hamza hamza    28 Sep  6 19:47 1-confused_smiley
+-rw-rw-r-- 1 hamza hamza 12288 Sep  6 19:47 .1-confused_smiley.swp
+-rwxrwxr-x 1 hamza hamza    28 Sep  6 19:47 2-hellofile
+-rwxrwxr-x 1 hamza hamza    30 Sep  6 19:47 2-hellofile~
+-rwxrwxr-x 1 hamza hamza    41 Sep  6 19:47 3-twofiles
+-rwxrwxr-x 1 hamza hamza    29 Sep  6 19:47 4-lastlines
+-rwxrwxr-x 1 hamza hamza    29 Sep  6 19:47 5-firstlines
+-rwxrwxr-x 1 hamza hamza    39 Sep  6 19:47 6-third_line
+-rwxrw-r-- 1 hamza hamza    88 Sep  6 19:51 7-file
+-rwxrw-r-- 1 hamza hamza    36 Sep  6 19:56 8-cwd_state
+-rw-rw-r-- 1 hamza hamza    12 Sep  6 19:51 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 hamza hamza   743 Sep  6 19:47 iacta
+-rw-rw-r-- 1 hamza hamza     0 Sep  6 19:57 ls_cwd_content
+-rw-rw-r-- 1 hamza hamza    61 Sep  6 19:47 README.md
